@@ -5,6 +5,10 @@ ________________________________________________________________________________
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-228B22?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=BramTechxxvi&label=Profile%20views&color=0e75b6&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BramTechxxvi)
+
+
 
 
 
