@@ -11,7 +11,7 @@
 <h2>About Me</h2>
 
 
-I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundstion in Javascript, React,
+I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundstion in Python, Javascript, React and backend frameworks. I enjoy solving complex problems and contributing innovative solutions.
 
 Here are some ideas to get you started:
 
