@@ -1,12 +1,15 @@
-👋 Hi, I'm Ibrahim Ibrahim Babatunde
+👋 Hi, ***I'm Ibrahim Ibrahim Babatunde***
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-000000?style=for-the-badge&logo=github&logoColor=white)
-![Backend Developer](https://img.shields.io/badge/Backend%20Developer-228B22?style=for-the-badge&logo=node.js&logoColor=white)
+![Backend Engineer](https://img.shields.io/badge/Backend%20Developer-228B22?style=for-the-badge&logo=github&logoColor=white)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BramTechxxvi)
 
+
+
+About Me
 
 
 
