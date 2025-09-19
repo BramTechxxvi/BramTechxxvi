@@ -11,9 +11,7 @@
 <h2>About Me</h2>
 
 
-
-
-**BramTechxxvi/BramTechxxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundstion in Javascript, React,
 
 Here are some ideas to get you started:
 
