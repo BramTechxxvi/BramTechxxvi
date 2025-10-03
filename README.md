@@ -56,6 +56,11 @@ I'm a passionate software engineer specializing in building scalable and secure 
 
 <h2>Tools & Platforms</h2>
 
+- VS Code, IntelliJ IDEA
+- Docker, 
+- AWS, Azure
+- Github Actions.
+
 
 <h2>Connect With Me</h2>
 
