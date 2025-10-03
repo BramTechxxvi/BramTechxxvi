@@ -51,4 +51,23 @@ I'm a passionate software engineer specializing in building scalable and secure 
 
 
 
+<h2>Currently Learning</h2>
+
+
+<h2>Tools & Platforms</h2>
+
+
+<h2>Connect With Me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-ibrahim-1001b333a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.ib.babs21@gmail.com)  
+
+
+
+<h2>Fun Facts</h2>
+
+
+
+
+
 
