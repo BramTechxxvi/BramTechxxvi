@@ -41,3 +41,11 @@ I'm a passionate software engineer specializing in building scalable and secure 
 
 <h2>Featured Projects</h2>
 
+
+
+<h2>Github Stats</h2>
+
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BramTechxxvi&show_icons=true&theme=tokyonight)
+
+
+
