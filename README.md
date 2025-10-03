@@ -46,8 +46,8 @@ I'm a passionate software engineer specializing in building scalable and secure 
 <h2>Github Stats</h2>
 
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BramTechxxvi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BramTechxxvi&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BramTechxxvi&theme=tokyonight&hide_border=true)
 
 
 
