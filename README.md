@@ -13,7 +13,7 @@
 
 I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundation in Python, Javascript, React and backend frameworks. I enjoy solving complex problems and contributing innovative projects.
 
-- 💼 Current Role: Software Engineer Trainee at Semicolon Africa
+- 💼 Current Role: Software Engineer
 - 🎓 Education: Software Engineering Certificate, Semicolon Africa Lagos.
 - 🌍 Based in: Lagos, Nigeria
 - 🗣 Languages: English
